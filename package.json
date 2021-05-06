@@ -38,7 +38,7 @@
   "dependencies": {
     "emerge": "^0.4.0",
     "fpx": "^0.7.2",
-    "highcharts": "^8.1.2",
+    "highcharts": "^9.0.0",
     "highcharts-react-official": "^3.0.0",
     "querystring": "^0.2.0",
     "react": "^16.13.1",
